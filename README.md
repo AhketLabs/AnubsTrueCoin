@@ -30,7 +30,7 @@ The repository includes the source code for each version of the AnubsTrueCoin lo
 ### **Available Versions**
 | Version | Deployment Details                                   |
 |---------|-----------------------------------------------------|
-| v1.0    | Deployed on Polygon Mainnet at `0x123...` (Nov 2024) |
+| v1.0    | Deployed on Polygon Mainnet at `0x7601eE96Da06f566C6EeB9671c4843Eacd6A2E35` (Nov 2024) |
 
 The **v1.0** source code is available in the `v1.0/` directory. Future versions will be added as they are deployed.
 
